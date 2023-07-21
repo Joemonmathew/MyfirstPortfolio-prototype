@@ -16,8 +16,6 @@ body{
 .nav-contents{
     display:flex;
     justify-content:space-evenly;
-    /* gap:60%; */
-    /* font-size:30px; */
 
 }
 .icon{
@@ -43,8 +41,6 @@ a{
     flex-direction:row;
     justify-content: center;
     align-items: center;
-    /* margin-top: 3%;
-    margin-bottom: 3%; */
     margin-left: 3%;
     height:400px;
     
